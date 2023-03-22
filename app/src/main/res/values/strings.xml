@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TaveStudy01_Intent</string>
+    <string name="go_to_subactivity">Go to SubActivity</string>
+    <string name="go_back">Go Back</string>
 </resources>
